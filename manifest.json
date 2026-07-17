@@ -1,0 +1,22 @@
+{
+  "name": "Calendar",
+  "short_name": "Calendar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FAC898",
+  "icons": [
+    {
+      "src": "smallicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "bigicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
